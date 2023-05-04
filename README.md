@@ -13,6 +13,7 @@
 * ✅[NETBEANS IDE](https://netbeans.apache.org/download/archive/index.html)
 
 # TEMATICAS:
+## JAVA BÁSICO:
 * ✅ Java Swing
 * ✅ Java Fex
 * ✅ Operadores Aritméticos
@@ -25,6 +26,15 @@
 * ✅ Repetições for
 * ✅ Vetores
 * ✅ Metodos
+
+## JAVA POO:
+* ✅ CLASSES E OBJETOS
+* ✅ CONFIGURANDO VISIBILIDADE
+* ✅ METODOS GSC
+* ✅ PILARES DO POO
+* ✅ ENCAPSULAMENTO
+* ✅ HERANÇA
+* ✅ POLIMORFISMO
 
 
 
