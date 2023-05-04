@@ -13,7 +13,7 @@
 * ✅[NETBEANS IDE](https://netbeans.apache.org/download/archive/index.html)
 
 # TEMATICAS:
-## JAVA BÁSICO:
+## [JAVA BÁSICO:](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 * ✅ Java Swing
 * ✅ Java Fex
 * ✅ Operadores Aritméticos
@@ -27,7 +27,7 @@
 * ✅ Vetores
 * ✅ Metodos
 
-## JAVA POO:
+## [JAVA POO:](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 * ✅ CLASSES E OBJETOS
 * ✅ CONFIGURANDO VISIBILIDADE
 * ✅ METODOS GSC
