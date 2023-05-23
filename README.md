@@ -16,18 +16,18 @@
 
 # TEMATICAS:
 ## [JAVA BÁSICO:](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
-* ✅ Java Swing
-* ✅ Java Fex
-* ✅ Operadores Aritméticos
-* ✅ Operdadores lógicos e relacionais
-* ✅ Variaveis e Tipos Primitivos
-* ✅ Tratamento de Dados
-* ✅ Estruturas Condicionais Compostas
-* ✅ Estruturas Condicionais Aninhadas
-* ✅ Repetições while
-* ✅ Repetições for
-* ✅ Vetores
-* ✅ Metodos
+* ✅ JAVA SWING
+* ✅ JAVA FEX
+* ✅ OPERADORES ARIMÉTICOS, LÓGICOS E RELACIONAIS
+* ✅ VARIAVEIS E TIPOS PRIMITIVOS
+* ✅ TRATAMENTO DE DADOS
+* ✅ ESTRUTURA CONDICIONAL COMPOSTA
+* ✅ ESTRUTURA CONDICIONAL ANINHADA
+* ✅ ESTRUTURA CONDICIONAL SWITCH
+* ✅ ESTRUTURA DE REPETIÇÃO WHILE
+* ✅ ESTRUTURA DE REPETIÇÃO FOR
+* ✅ VETORES (VARIAVEIS COMPOSTAS 1)
+* ✅ METODOS (VARIAVEIS COMPOSTAS 2)
 
 ## [JAVA POO:](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 * ✅ CLASSES E OBJETOS
