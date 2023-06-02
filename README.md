@@ -7,7 +7,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO-JAVA%20BASICO-03A9F4?logo=youtube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO-JAVA%20POO-03A9F4?logo=youtube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) <br>
 
-<img src="https://s2.glbimg.com/twoewJmwpMgtGPcRPP8SxFlDVmM=/0x0:695x393/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/P/f/y52r4ySZWLkJjEhKLhgw/2014-11-14-java-logo.jpg" align="center" width="280"> <br>
+<img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" align="center" width="280"> <br>
 
 # REQUISITOS:
 * 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
