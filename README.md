@@ -313,7 +313,8 @@ Nesse exemplo, temos a classe abstrata Animal que representa a abstração de um
 * 7 - É preciso colocar ";" no fim de cada comando.
 * 8 -  A IDE cria o bycode do código que será usada por multiplas JVMs (Para Android, Linux e Windows).
 
-# ❤CARACTERISTICAS POSITIVAS:
+# 💖CARACTERISTICAS DA LINGUAGEM:
+## ❤POSITIVAS:
 * **1 - Simplicidade:** A sintaxe do Java é fácil de ler e entender, o que facilita o desenvolvimento e a manutenção do código. A linguagem foi projetada para ser simples e intuitiva, o que a torna acessível até mesmo para programadores iniciantes.
 * **2 - Portabilidade:** Uma das principais vantagens do Java é sua portabilidade. Os programas escritos em Java podem ser executados em diferentes plataformas, como Windows, macOS e Linux, sem a necessidade de alterar o código-fonte. Isso é possível devido à máquina virtual Java (JVM), que interpreta o código Java e o traduz para a linguagem de máquina específica da plataforma em que está sendo executado.
 * **3 - Orientação a Objetos:** Java é uma linguagem orientada a objetos, o que significa que ela suporta conceitos fundamentais de programação orientada a objetos, como encapsulamento, herança, polimorfismo e abstração. Essa abordagem promove a modularidade, reutilização de código e facilita a criação de programas bem estruturados e escaláveis.
@@ -321,7 +322,7 @@ Nesse exemplo, temos a classe abstrata Animal que representa a abstração de um
 * **5 - Comunidade ativa e suporte:** Java possui uma comunidade de desenvolvedores muito ativa e um amplo suporte da Oracle, empresa responsável pelo desenvolvimento e manutenção da linguagem. Isso significa que você pode encontrar uma vasta quantidade de recursos, tutoriais, documentação e fóruns online para obter ajuda e aprender novas técnicas.
 * **6 - Segurança:** Java possui recursos de segurança robustos integrados em sua plataforma. A JVM executa o código Java em um ambiente sandbox, que restringe o acesso a recursos do sistema operacional, como o sistema de arquivos e rede. Isso ajuda a evitar a execução de código malicioso e a proteger o computador e os dados.
 
-# 🖤CARACTERISTICAS NEGATIVAS:
+## 🖤NEGATIVAS:
 * **1 - Verbosidade:** O Java é conhecido por sua verbosidade, o que significa que é necessário escrever mais linhas de código em comparação com outras linguagens de programação para realizar certas tarefas. Isso pode levar a um código-fonte mais extenso e complexo, tornando o desenvolvimento mais demorado.
 * **2 - Curva de Aprendizado:** Java possui uma curva de aprendizado íngreme para iniciantes, especialmente para aqueles que não têm experiência prévia em programação. A sintaxe complexa e a grande quantidade de conceitos de programação orientada a objetos podem tornar o aprendizado inicial do Java um pouco desafiador. 
 * **3 - Desempenho Relativo:** Embora o Java tenha um desempenho sólido em muitos casos, algumas pessoas argumentam que ele pode ser um pouco mais lento em comparação com outras linguagens de programação de baixo nível, como C ou C++. Isso ocorre porque o código Java precisa ser executado em uma máquina virtual, adicionando uma camada de abstração entre o código e o sistema operacional.
