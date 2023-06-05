@@ -9,13 +9,13 @@
 
 <img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" align="center" width="280"> <br>
 
-# REQUISITOS:
+# 🤖REQUISITOS:
 * 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
 * 💻[INSTALAR O JAVA](https://www.java.com/pt-BR/)
 * 💻[BAIXAR O JDK](https://www.oracle.com/br/java/technologies/downloads/)
 * 💻[INSTALAR O NETBEANS IDE](https://netbeans.apache.org/download/archive/index.html)
 
-# TEMATICAS:
+# 🎩TEMATICAS:
 ## [JAVA BÁSICO:](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 * ✅ JAVA SWING
 * ✅ JAVA FEX
@@ -40,7 +40,7 @@
 * ✅ POLIMORFISMO
 
 ![](https://i.imgur.com/waxVImv.png)
-# 🎩SINTAXE DA LINGUAGEM:
+# 🎁SINTAXE DA LINGUAGEM:
 ## 1) VARIAVEIS SIMPLES:
 Em Java, as variáveis simples são usadas para armazenar valores individuais de um determinado tipo de dado. Aqui está um exemplo de declaração e inicialização de variáveis simples em Java:
 ````
