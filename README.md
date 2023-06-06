@@ -40,6 +40,23 @@
 * ✅ POLIMORFISMO
 
 ![](https://i.imgur.com/waxVImv.png)
+# 👀VISÃO PANORÂMICA:
+| PERGUNTA | RESPOSTA |
+| :---: | :---: |
+| DATA DE CRIAÇÃO | 1991 |
+| NOME DO CRIADOR | James Gosling, Mike Sheridan e Patrick Naughton | 
+| SIGNIFICADO DO NOME | Acredita-se que o nome "Java" tenha sido inspirado pelo café Java, que é cultivado na Indonésia e era uma bebida popular entre a equipe de desenvolvimento. |
+| É BASEADA NO | C C++ |
+| EXTENÇÃO DO ARQUIVO | .java |
+| É MAIS USADA | Criação de Apps para Android |
+
+* O Java foi criado por James Gosling, Mike Sheridan e Patrick Naughton na Sun Microsystems, que mais tarde foi adquirida pela Oracle Corporation. O desenvolvimento da linguagem começou em 1991 e a primeira versão pública do Java, chamada de Java 1.0, foi lançada em 1996.
+* O nome "Java" foi escolhido inicialmente como um substituto temporário para o nome original, "Oak". No entanto, a equipe de desenvolvimento acabou gostando do nome e decidiu mantê-lo. Acredita-se que o nome "Java" tenha sido inspirado pelo café Java, que é cultivado na Indonésia e era uma bebida popular entre a equipe de desenvolvimento.
+* O Java é uma linguagem de programação de propósito geral que foi projetada para ser portável, segura e fácil de usar. Uma das principais características do Java é sua capacidade de executar em diferentes plataformas, conhecida como "write once, run anywhere" (escreva uma vez, execute em qualquer lugar). Isso é possível devido à máquina virtual Java (JVM), que permite que os programas Java sejam executados em diferentes sistemas operacionais sem a necessidade de modificação do código-fonte.
+* O Java é mais conhecido por seu uso no desenvolvimento de aplicativos empresariais e sistemas distribuídos. É amplamente utilizado para criar aplicativos de desktop, aplicativos móveis para Android, sistemas de gerenciamento de bancos de dados, servidores de aplicativos, sistemas de mensagens, sistemas de comércio eletrônico e muito mais.
+* Além disso, o Java também é usado em várias outras áreas, como desenvolvimento de jogos, aplicativos científicos, sistemas embarcados e Internet das Coisas (IoT).
+* Em resumo, o Java é uma linguagem de programação amplamente usada, criada por James Gosling e sua equipe na Sun Microsystems. Ele é conhecido por sua portabilidade, segurança e uso em uma variedade de domínios de aplicativos, com destaque para o desenvolvimento de aplicativos empresariais e sistemas distribuídos.
+
 # 🎁SINTAXE DA LINGUAGEM:
 ## 1) VARIAVEIS SIMPLES:
 Em Java, as variáveis simples são usadas para armazenar valores individuais de um determinado tipo de dado. Aqui está um exemplo de declaração e inicialização de variáveis simples em Java:
