@@ -58,6 +58,62 @@
 * Em resumo, o Java é uma linguagem de programação amplamente usada, criada por James Gosling e sua equipe na Sun Microsystems. Ele é conhecido por sua portabilidade, segurança e uso em uma variedade de domínios de aplicativos, com destaque para o desenvolvimento de aplicativos empresariais e sistemas distribuídos.
 
 # 🎁SINTAXE DA LINGUAGEM:
+## 0) FUNDAMENTOS:
+Aqui está um exemplo de código em Java que utiliza os operadores aritméticos, relacionais e lógicos com os tipos primitivos:
+```java
+public class ExemploOperadores {
+    public static void main(String[] args) {
+        // Operadores aritméticos
+        int a = 10;
+        int b = 5;
+        int soma = a + b;     // Soma: 15
+        int subtracao = a - b;  // Subtração: 5
+        int multiplicacao = a * b;  // Multiplicação: 50
+        int divisao = a / b;  // Divisão: 2
+        int resto = a % b;  // Resto da divisão: 0
+
+        // Operadores relacionais
+        boolean igual = a == b;  // Igualdade: false
+        boolean diferente = a != b;  // Diferença: true
+        boolean maior = a > b;  // Maior que: true
+        boolean menor = a < b;  // Menor que: false
+        boolean maiorIgual = a >= b;  // Maior ou igual a: true
+        boolean menorIgual = a <= b;  // Menor ou igual a: false
+
+        // Operadores lógicos
+        boolean condicao1 = (a > 0) && (b > 0);  // AND lógico: true
+        boolean condicao2 = (a > 0) || (b > 0);  // OR lógico: true
+        boolean negacao = !(a > 0);  // NOT lógico: false
+
+        // Imprimindo os resultados
+        System.out.println("Operadores aritméticos:");
+        System.out.println("Soma: " + soma);
+        System.out.println("Subtração: " + subtracao);
+        System.out.println("Multiplicação: " + multiplicacao);
+        System.out.println("Divisão: " + divisao);
+        System.out.println("Resto da divisão: " + resto);
+
+        System.out.println("\nOperadores relacionais:");
+        System.out.println("Igualdade: " + igual);
+        System.out.println("Diferença: " + diferente);
+        System.out.println("Maior que: " + maior);
+        System.out.println("Menor que: " + menor);
+        System.out.println("Maior ou igual a: " + maiorIgual);
+        System.out.println("Menor ou igual a: " + menorIgual);
+
+        System.out.println("\nOperadores lógicos:");
+        System.out.println("AND lógico: " + condicao1);
+        System.out.println("OR lógico: " + condicao2);
+        System.out.println("NOT lógico: " + negacao);
+    }
+}
+```
+Neste exemplo, utilizamos os operadores aritméticos (soma, subtração, multiplicação, divisão e resto), os operadores relacionais (igualdade, diferença, maior que, menor que, maior ou igual a, menor ou igual a) e os operadores lógicos (AND, OR e NOT).
+
+As variáveis `a` e `b` são declaradas como `int` e atribuídas valores. Em seguida, utilizamos os operadores para realizar operações aritméticas, comparações e avaliações lógicas. Os resultados são armazenados em variáveis ou impressos diretamente no console.
+
+Dessa forma, o exemplo demonstra a utilização dos diferentes tipos de operadores em Java com os tipos primitivos, mostrando como eles podem ser aplicados para realizar cálculos, comparações e avaliações lógicas em um programa.
+
 ## 1) VARIAVEIS SIMPLES:
 Em Java, as variáveis simples são usadas para armazenar valores individuais de um determinado tipo de dado. Aqui está um exemplo de declaração e inicialização de variáveis simples em Java:
 ````java
@@ -93,10 +149,42 @@ Possui Carro: true
 ````
 Esses são exemplos simples de variáveis em Java. Existem diferentes tipos de dados disponíveis em Java, cada um com suas características e usos específicos. A escolha do tipo de dado adequado depende do valor que você deseja armazenar e manipular em seu programa.
 
+Em Java, para receber uma entrada de dados do usuário, você pode utilizar a classe `Scanner` que faz parte da biblioteca padrão. Aqui está um exemplo de como usar o `Scanner` para receber uma entrada de dados:
+
+```java
+import java.util.Scanner;
+
+public class ExemploEntrada {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Digite um número inteiro: ");
+        int numero = scanner.nextInt();
+
+        System.out.print("Digite seu nome: ");
+        String nome = scanner.nextLine();
+
+        System.out.println("Número digitado: " + numero);
+        System.out.println("Nome digitado: " + nome);
+
+        scanner.close();
+    }
+}
+```
+Neste exemplo, utilizamos o `Scanner` para receber uma entrada de dados do usuário. Primeiro, criamos uma instância do `Scanner` passando `System.in` como argumento, que representa a entrada padrão do sistema, ou seja, o teclado.
+
+Em seguida, utilizamos o método `nextInt()` para ler um número inteiro digitado pelo usuário e armazená-lo na variável `numero`. E utilizamos o método `nextLine()` para ler uma linha de texto digitada pelo usuário e armazená-la na variável `nome`.
+
+Por fim, imprimimos os valores digitados pelo usuário no console.
+
+É importante chamar o método `close()` no final para liberar os recursos do `Scanner`.
+
+Dessa forma, você pode utilizar o `Scanner` para receber entradas de dados do usuário em Java.
+
 ## 2) ESTRUTURA CONDICIONAL:
 Em Java, a estrutura condicional permite executar blocos de código com base em condições específicas. Existem três tipos principais de estruturas condicionais em Java: if, if-else, e switch. Vou fornecer exemplos de cada uma delas:
 
-### 1) ESTRUTURA IF:
+### ESTRUTURA IF:
 ````java
 int idade = 18;
 if (idade >= 18) {
@@ -105,7 +193,7 @@ if (idade >= 18) {
 ````
 Nesse exemplo, o bloco de código dentro do if será executado apenas se a condição idade >= 18 for verdadeira.
 
-### 2) ESTRUTURA IF-ELSE:
+### ESTRUTURA IF-ELSE:
 ````java
 int idade = 16;
 if (idade >= 18) {
@@ -117,7 +205,7 @@ else {
 ````
 Nesse exemplo, o bloco de código dentro do if será executado se a condição idade >= 18 for verdadeira. Caso contrário, o bloco de código dentro do else será executado.
 
-### 3) ESTRUTURA SWITCH:
+### ESTRUTURA SWITCH:
 ````java
 int diaDaSemana = 3;
 String nomeDia;
@@ -152,7 +240,7 @@ System.out.println("Hoje é " + nomeDia);
 Nesse exemplo, a variável diaDaSemana é avaliada em uma série de casos no switch. Dependendo do valor de diaDaSemana, o bloco de código correspondente ao caso será executado. Se o valor não corresponder a nenhum caso, o bloco de código dentro do default será executado. Esses são exemplos básicos de estruturas condicionais em Java. Elas permitem que você tome decisões em seu código com base em condições específicas, tornando seu programa mais flexível e adaptável.
 
 ## 3) ESTRUTURA DE REPETIÇÃO:
-### 1) ESTRUTURA FOR:
+### ESTRUTURA FOR:
 ````java
 for (int i = 1; i <= 5; i++) {
     System.out.println("Número: " + i);
@@ -160,7 +248,7 @@ for (int i = 1; i <= 5; i++) {
 ````
 Nesse exemplo, o bloco de código dentro do for será repetido cinco vezes. A variável i é inicializada com 1, a condição i <= 5 é verificada a cada iteração e, após cada iteração, o valor de i é incrementado em 1.
 
-### 2) ESTRUTURA WHILE:
+### ESTRUTURA WHILE:
 ````java
 int i = 1;
 while (i <= 5) {
@@ -170,7 +258,7 @@ while (i <= 5) {
 ````
 Nesse exemplo, o bloco de código dentro do while será repetido enquanto a condição i <= 5 for verdadeira. O valor de i é incrementado em 1 a cada iteração.
 
-### 3) ESTRUTURA DO WHILE:
+### ESTRUTURA DO-WHILE:
 ````java
 int i = 1;
 do {
@@ -184,7 +272,7 @@ Nesse exemplo, o bloco de código dentro do do será executado pelo menos uma ve
 ## 4) VARIAVEIS COMPOSTAS:
 Em Java, existem várias formas de lidar com variáveis compostas, que permitem armazenar e manipular conjuntos de valores relacionados. Alguns exemplos de variáveis compostas em Java são: arrays, listas, conjuntos e mapas. Aqui estão exemplos de algumas dessas variáveis compostas em Java:
 
-### 1) ARRAYS:
+### ARRAYS:
 ````java
 int[] numeros = {1, 2, 3, 4, 5}; // Array de inteiros
 String[] nomes = {"João", "Maria", "José"}; // Array de strings
@@ -195,7 +283,7 @@ System.out.println(nomes[1]); // Acessando o segundo elemento do array
 valores[2] = 3.14; // Atribuindo um valor ao terceiro elemento do array
 ````
 
-### 2) LISTAS:
+### LISTAS:
 ````java
 import java.util.ArrayList;
 import java.util.List;
@@ -210,7 +298,7 @@ numeros.add(3);
 System.out.println(numeros.get(1)); // Acessando o segundo elemento da lista
 ````
 
-### 3) CONJUNTOS (SETS):
+### CONJUNTOS (SETS):
 ````java
 import java.util.HashSet;
 import java.util.Set;
@@ -225,7 +313,7 @@ nomes.add("Maria"); // Elementos duplicados não são permitidos em um conjunto
 System.out.println(nomes.size()); // Obtendo o tamanho do conjunto
 ````
 
-### 4) MAPAS (MAP):
+### MAPAS (MAP):
 ````java
 import java.util.HashMap;
 import java.util.Map;
@@ -322,7 +410,7 @@ Nesse exemplo, temos a classe abstrata Animal que representa a abstração de um
 
 # 🛑REGRAS DO JAVA:
 * 1 - É preciso importar o pacote do diretório na qual o arquivo está localizado.
-* 2 - Para dar nome de um arquivo, é preciso obedecer a lei do "camelo" (Camel Case): "NomeDoArquivo.java".
+* 2 - Para dar nome de um arquivo, função, variavel, classe e metodo, é preciso obedecer a lei do "camelo" (Camel Case): "NomeDoArquivo.java".
 * 3 - A class pública tem que ter o mesmo nome do arquivo.
 * 4 - É preciso criar class (POO) até para escrever "olá mundo" no console.
 * 5 - Ao declarar uma variavél, terá que informar se ela é "int", "float" ou "string" ("String" é objeto).
