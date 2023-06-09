@@ -60,7 +60,7 @@
 # 🎁SINTAXE DA LINGUAGEM:
 ## 1) VARIAVEIS SIMPLES:
 Em Java, as variáveis simples são usadas para armazenar valores individuais de um determinado tipo de dado. Aqui está um exemplo de declaração e inicialização de variáveis simples em Java:
-````
+````java
 public class ExemploVariaveis {
     public static void main(String[] args) {
         // Declaração e inicialização de variáveis
@@ -85,7 +85,7 @@ Neste exemplo, declaramos e inicializamos quatro variáveis simples:
 * sexo é uma variável do tipo char que armazena um único caractere.
 * possuiCarro é uma variável do tipo boolean que armazena um valor lógico (verdadeiro ou falso).
 Após a inicialização das variáveis, utilizamos o método System.out.println() para imprimir os valores das variáveis na saída do console. Ao executar o código, você verá a seguinte saída:
-````
+````java
 Idade: 30
 Altura: 1.75
 Sexo: M
@@ -97,7 +97,7 @@ Esses são exemplos simples de variáveis em Java. Existem diferentes tipos de d
 Em Java, a estrutura condicional permite executar blocos de código com base em condições específicas. Existem três tipos principais de estruturas condicionais em Java: if, if-else, e switch. Vou fornecer exemplos de cada uma delas:
 
 ### 1) ESTRUTURA IF:
-````
+````java
 int idade = 18;
 if (idade >= 18) {
     System.out.println("Você é maior de idade.");
@@ -106,7 +106,7 @@ if (idade >= 18) {
 Nesse exemplo, o bloco de código dentro do if será executado apenas se a condição idade >= 18 for verdadeira.
 
 ### 2) ESTRUTURA IF-ELSE:
-````
+````java
 int idade = 16;
 if (idade >= 18) {
     System.out.println("Você é maior de idade.");
@@ -118,7 +118,7 @@ else {
 Nesse exemplo, o bloco de código dentro do if será executado se a condição idade >= 18 for verdadeira. Caso contrário, o bloco de código dentro do else será executado.
 
 ### 3) ESTRUTURA SWITCH:
-````
+````java
 int diaDaSemana = 3;
 String nomeDia;
 switch (diaDaSemana) {
@@ -153,7 +153,7 @@ Nesse exemplo, a variável diaDaSemana é avaliada em uma série de casos no swi
 
 ## 3) ESTRUTURA DE REPETIÇÃO:
 ### 1) ESTRUTURA FOR:
-````
+````java
 for (int i = 1; i <= 5; i++) {
     System.out.println("Número: " + i);
 }
@@ -161,7 +161,7 @@ for (int i = 1; i <= 5; i++) {
 Nesse exemplo, o bloco de código dentro do for será repetido cinco vezes. A variável i é inicializada com 1, a condição i <= 5 é verificada a cada iteração e, após cada iteração, o valor de i é incrementado em 1.
 
 ### 2) ESTRUTURA WHILE:
-````
+````java
 int i = 1;
 while (i <= 5) {
     System.out.println("Número: " + i);
@@ -171,7 +171,7 @@ while (i <= 5) {
 Nesse exemplo, o bloco de código dentro do while será repetido enquanto a condição i <= 5 for verdadeira. O valor de i é incrementado em 1 a cada iteração.
 
 ### 3) ESTRUTURA DO WHILE:
-````
+````java
 int i = 1;
 do {
     System.out.println("Número: " + i);
@@ -185,7 +185,7 @@ Nesse exemplo, o bloco de código dentro do do será executado pelo menos uma ve
 Em Java, existem várias formas de lidar com variáveis compostas, que permitem armazenar e manipular conjuntos de valores relacionados. Alguns exemplos de variáveis compostas em Java são: arrays, listas, conjuntos e mapas. Aqui estão exemplos de algumas dessas variáveis compostas em Java:
 
 ### 1) ARRAYS:
-````
+````java
 int[] numeros = {1, 2, 3, 4, 5}; // Array de inteiros
 String[] nomes = {"João", "Maria", "José"}; // Array de strings
 double[] valores = new double[5]; // Array vazio de doubles com tamanho definido
@@ -196,7 +196,7 @@ valores[2] = 3.14; // Atribuindo um valor ao terceiro elemento do array
 ````
 
 ### 2) LISTAS:
-````
+````java
 import java.util.ArrayList;
 import java.util.List;
 
@@ -211,7 +211,7 @@ System.out.println(numeros.get(1)); // Acessando o segundo elemento da lista
 ````
 
 ### 3) CONJUNTOS (SETS):
-````
+````java
 import java.util.HashSet;
 import java.util.Set;
 
@@ -226,7 +226,7 @@ System.out.println(nomes.size()); // Obtendo o tamanho do conjunto
 ````
 
 ### 4) MAPAS (MAP):
-````
+````java
 import java.util.HashMap;
 import java.util.Map;
 
@@ -242,7 +242,7 @@ Esses são apenas alguns exemplos de variáveis compostas em Java. Cada uma dela
 
 ## 5) FUNÇÕES:
 Em Java, as funções são chamadas de métodos. Os métodos são blocos de código que podem ser reutilizados para executar uma tarefa específica. Eles ajudam a organizar e modularizar o código, tornando-o mais legível e fácil de manter. Aqui está um exemplo de como definir e chamar um método em Java:
-````
+````java
 public class ExemploFuncoes {
     public static void main(String[] args) {
         // Chamando o método somarNumeros e armazenando o resultado em uma variável
@@ -258,14 +258,14 @@ public class ExemploFuncoes {
 }
 ````
 Nesse exemplo, temos o método somarNumeros que recebe dois números inteiros como parâmetros. Ele calcula a soma dos dois números e retorna o resultado. No método main, chamamos o método somarNumeros passando os valores 5 e 3 como argumentos. O valor retornado pelo método é armazenado na variável resultado e, em seguida, é impresso na saída do console. Aqui está a saída correspondente:
-````
+````java
 O resultado da soma é: 8
 ````
 Além disso, em Java, existem também os métodos de instância que pertencem a uma classe específica e precisam ser invocados em uma instância dessa classe. Esses métodos são definidos sem o modificador static. No entanto, o exemplo acima ilustra o uso de um método estático, que pode ser chamado diretamente sem a necessidade de criar uma instância da classe. É possível definir métodos com diferentes tipos de retorno (incluindo void para métodos que não retornam um valor) e diferentes combinações de parâmetros. Os métodos podem ser usados para realizar uma ampla variedade de tarefas e são uma parte fundamental da programação em Java.
 
 ## 6) CLASS POO:
 Class com todos os 4 pilares da programação orientada a objetos: encapsulamento, herança, polimorfismo e abstração:
-````
+````java
 // Exemplo de classe em Java usando os pilares da programação orientada a objetos
 
 // Abstração: Criando a classe abstrata Animal
