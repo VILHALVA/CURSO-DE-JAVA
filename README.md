@@ -7,7 +7,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO-JAVA%20BASICO-03A9F4?logo=youtube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO-JAVA%20POO-03A9F4?logo=youtube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) <br>
 
-<img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" align="center" width="280"> <br>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" align="center" width="280"> <br>
 
 # 🤖REQUISITOS:
 * 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
@@ -38,6 +38,10 @@
 * ✅ ENCAPSULAMENTO
 * ✅ HERANÇA
 * ✅ POLIMORFISMO
+
+## 💌VIDEOS DO YOUTUBE:
+[CLIQUE AQUI PARA ASSISTIR TELA ARITMÉTICA COM JAVA SWING](https://youtu.be/clVpgOhtpHg?si=DxJu_jXxJJpgOmQ1)
+[CLIQUE AQUI PARA ASSISTIR O JOGO DO GêNIO](https://youtu.be/LK6G_dVQkZ0?si=2pmN2GZxp68Rnet5)
 
 ![](https://i.imgur.com/waxVImv.png)
 # 👀VISÃO PANORÂMICA:
