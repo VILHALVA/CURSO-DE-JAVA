@@ -41,7 +41,7 @@
 
 ## 💌VIDEOS DO YOUTUBE:
 * [CLIQUE AQUI PARA ASSISTIR TELA ARITMÉTICA COM JAVA SWING](https://youtu.be/clVpgOhtpHg?si=DxJu_jXxJJpgOmQ1)
-* [CLIQUE AQUI PARA ASSISTIR O JOGO DO GêNIO](https://youtu.be/LK6G_dVQkZ0?si=2pmN2GZxp68Rnet5)
+* [CLIQUE AQUI PARA ASSISTIR O JOGO DO GÊNIO](https://youtu.be/LK6G_dVQkZ0?si=2pmN2GZxp68Rnet5)
 
 ![](https://i.imgur.com/waxVImv.png)
 # 👀VISÃO PANORÂMICA:
