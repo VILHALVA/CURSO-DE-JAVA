@@ -1,3 +1,5 @@
+# INPUT BANCO
+```java
 public void abrirConta() {
 	// ABRIR A CONTA: //
   input = new Scanner(System.in);
@@ -18,3 +20,4 @@ public void abrirConta() {
    		this.setSaldo(150);
   	}
  }
+```
