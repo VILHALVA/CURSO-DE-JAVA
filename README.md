@@ -40,6 +40,7 @@
 * ✅ POLIMORFISMO
 
 ## 📹VIDEOS DO YOUTUBE:
+* [CRIANDO CLASSE PEQUENA DE CANTORES COM JAVA](https://youtu.be/HEVIt1aYkNc?si=xhe78lhh4QBfvqVq)
 * [TELA ARITMÉTICA COM JAVA SWING](https://youtu.be/clVpgOhtpHg?si=DxJu_jXxJJpgOmQ1)
 * [O JOGO DO GÊNIO](https://youtu.be/LK6G_dVQkZ0?si=2pmN2GZxp68Rnet5)
 
