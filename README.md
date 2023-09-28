@@ -10,7 +10,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" align="center" width="280"> <br>
 
 # 🤖REQUISITOS:
-* 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
+* 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PORTUGOL)
 * 💻[INSTALAR O JAVA](https://www.java.com/pt-BR/)
 * 💻[BAIXAR O JDK](https://www.oracle.com/br/java/technologies/downloads/)
 * 💻[INSTALAR O NETBEANS IDE](https://netbeans.apache.org/download/archive/index.html)
