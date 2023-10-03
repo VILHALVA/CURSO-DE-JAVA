@@ -1,53 +1,17 @@
 # CURSO-DE-JAVA
 👨‍⚖️CURSO COMPRETO DE JAVA.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.oracle.com/en/java/) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Java) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.oracle.com/en/java/) 
 
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO-JAVA%20BASICO-03A9F4?logo=youtube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO-JAVA%20POO-03A9F4?logo=youtube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/-JABA%20BASICO-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
+[![GitHub Repo stars](https://img.shields.io/badge/-JABA%20POO-blueviolet)](https://img.shields.io/badge/CURSO-JAVA%20POO-03A9F4?logo=youtube)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" align="center" width="280"> <br>
 
-# 🤖REQUISITOS:
-* 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PORTUGOL)
-* 💻[INSTALAR O JAVA](https://www.java.com/pt-BR/)
-* 💻[BAIXAR O JDK](https://www.oracle.com/br/java/technologies/downloads/)
-* 💻[INSTALAR O NETBEANS IDE](https://netbeans.apache.org/download/archive/index.html)
-
-# 🎩TEMATICAS:
-## [JAVA BÁSICO:](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
-* ✅ JAVA SWING
-* ✅ JAVA FEX
-* ✅ OPERADORES ARIMÉTICOS, LÓGICOS E RELACIONAIS
-* ✅ VARIAVEIS E TIPOS PRIMITIVOS
-* ✅ TRATAMENTO DE DADOS
-* ✅ ESTRUTURA CONDICIONAL COMPOSTA
-* ✅ ESTRUTURA CONDICIONAL ANINHADA
-* ✅ ESTRUTURA CONDICIONAL SWITCH
-* ✅ ESTRUTURA DE REPETIÇÃO WHILE
-* ✅ ESTRUTURA DE REPETIÇÃO FOR
-* ✅ VETORES (VARIAVEIS COMPOSTAS 1)
-* ✅ METODOS (VARIAVEIS COMPOSTAS 2)
-
-## [JAVA POO:](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
-* ✅ CLASSES E OBJETOS
-* ✅ CONFIGURANDO VISIBILIDADE
-* ✅ METODOS GSC
-* ✅ PILARES DO POO
-* ✅ ENCAPSULAMENTO
-* ✅ HERANÇA
-* ✅ POLIMORFISMO
-
-## 📹VIDEOS DO YOUTUBE:
-* [CRIANDO CLASSE PEQUENA DE CANTORES COM JAVA](https://youtu.be/HEVIt1aYkNc?si=xhe78lhh4QBfvqVq)
-* [PROJETO LIVRO COM JAVA POO](https://youtu.be/-oDfSIRd5c8?si=Nq7gjjZdfQFWnwHs)
-* [MEDIA COM JAVA SWING](https://youtu.be/ASRcUQwklLA?si=W-PowaAcO3dzm2ih)
-* [TELA ARITMÉTICA COM JAVA SWING](https://youtu.be/clVpgOhtpHg?si=DxJu_jXxJJpgOmQ1)
-* [BOTÕES DE PROGRAMAÇÃO COM JAVA SWING](https://youtu.be/tuML9vHp8ic?si=2m8g-3v292zQ-mFz)
-* [O JOGO DO GÊNIO](https://youtu.be/LK6G_dVQkZ0?si=2pmN2GZxp68Rnet5)
-
 ![](https://i.imgur.com/waxVImv.png)
+
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
 | :---: | :---: |
