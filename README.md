@@ -83,5 +83,4 @@
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.oracle.com/en/java/)
 - [VEJA A SINTAXE](./SINTAXE.md)
-- [CURSO DE JAVA POO](https://github.com/VILHALVA/CURSO-DE-JAVA-POO)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:JAVA)
