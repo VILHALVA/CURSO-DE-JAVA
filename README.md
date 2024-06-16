@@ -77,7 +77,7 @@
 * **5 - Gerenciamento de Memória:** Embora o Java forneça o gerenciamento automático de memória através do coletor de lixo (garbage collector), alguns desenvolvedores argumentam que essa abordagem pode levar a picos de uso de memória e latências imprevisíveis. Em cenários de alto desempenho ou em sistemas que exigem controle preciso sobre a alocação e liberação de memória, a falta de controle direto sobre o gerenciamento de memória pode ser vista como uma desvantagem.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/c/CursoemV%C3%ADdeo)
   - [JAVA BÁSICO](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
   - [JAVA POO](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
