@@ -84,4 +84,5 @@
 - [VEJA A DOCUMENTAÇÃO](https://docs.oracle.com/en/java/)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA O APENDICE](./APENDICE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:JAVA)

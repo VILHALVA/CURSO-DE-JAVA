@@ -42,30 +42,11 @@ Para verificar se a instalação foi bem-sucedida, execute o comando:
 java -version
 ```
 
-## 2. CONFIGURAÇÃO DA IDE (INTEGRATED DEVELOPMENT ENVIRONMENT):
-Usar uma IDE facilita muito o desenvolvimento em Java. Uma das IDEs mais populares é o IntelliJ IDEA.
+## 2. USANDO QUALQUER IDE (OU BLOCO DE NOTAS): 
+### PASSO 1: CRIAR O ARQUIVO JAVA:
+1. **Abra o Bloco de Notas**.
+2. Digite o seguinte código:
 
-### INTELLIJ IDEA:
-1. Acesse o [site do IntelliJ IDEA](https://www.jetbrains.com/idea/download/).
-2. Baixe a versão Community (gratuita) ou a versão Ultimate (paga).
-3. Instale a IDE seguindo as instruções para o seu sistema operacional.
-
-## 3. CRIANDO O PRIMEIRO PROJETO EM JAVA:
-### PASSO A PASSO PARA CRIAR UM PROJETO NO INTELLIJ IDEA:
-1. Abra o IntelliJ IDEA.
-2. Clique em "New Project".
-3. Selecione "Java" no menu à esquerda.
-4. Em "Project SDK", selecione o JDK que você instalou.
-5. Clique em "Next" e depois em "Next" novamente.
-6. Nomeie seu projeto e selecione o diretório onde ele será salvo. Clique em "Finish".
-
-### CRIANDO UM ARQUIVO JAVA:
-1. No painel do lado esquerdo, clique com o botão direito na pasta `src`.
-2. Selecione "New" > "Java Class".
-3. Nomeie a classe como `HelloWorld` e clique em "OK".
-
-### ESCREVENDO O CÓDIGO:
-No arquivo `HelloWorld.java` que foi criado, escreva o seguinte código:
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
@@ -74,11 +55,38 @@ public class HelloWorld {
 }
 ```
 
-### EXECUTANDO O PROJETO:
-1. Clique com o botão direito no arquivo `HelloWorld.java`.
-2. Selecione "Run 'HelloWorld.main()'".
+3. Salve o arquivo como **HelloWorld.java**. Certifique-se de escolher o tipo de arquivo como **Todos os arquivos** (`*.txt`) no Bloco de Notas para garantir que a extensão do arquivo seja `.java`, e não `.txt`. Lembre-se que o nome da classe pública no código (HelloWorld) deve corresponder exatamente ao nome do arquivo.
 
-Você verá a mensagem `Hello, World!` impressa na janela do console.
+### PASSO 2: COMPILAR O PROGRAMA:
+1. Abra o **Prompt de Comando**.
+2. Navegue até o diretório onde você salvou o arquivo `HelloWorld.java` usando o comando `cd`. Exemplo:
+
+   ```bash
+   cd C:\caminho\para\o\arquivo
+   ```
+
+3. Compile o arquivo Java com o seguinte comando:
+
+   ```bash
+   javac HelloWorld.java
+   ```
+
+   Isso irá gerar um arquivo **HelloWorld.class**, que é o bytecode que será executado pela JVM (Java Virtual Machine).
+
+### PASSO 3: EXECUTAR O PROGRAMA:
+1. Ainda no **Prompt de Comando**, execute o programa com o seguinte comando:
+
+   ```bash
+   java HelloWorld
+   ```
+
+   Você verá a saída:
+
+   ```
+   Hello, World!
+   ```
+
+- Agora você terá seu programa "Hello, World!" rodando em Java!
 
 ## CONCLUSÃO:
 Agora você tem o JDK instalado, configurado e um ambiente de desenvolvimento Java pronto com o IntelliJ IDEA. Você criou e executou seu primeiro projeto Java. A partir daqui, você pode explorar mais sobre a linguagem Java, bibliotecas e frameworks para expandir suas habilidades de programação.
