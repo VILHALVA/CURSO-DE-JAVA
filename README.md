@@ -20,7 +20,7 @@
 * Além disso, o Java também é usado em várias outras áreas, como desenvolvimento de jogos, aplicativos científicos, sistemas embarcados e Internet das Coisas (IoT).
 * Em resumo, o Java é uma linguagem de programação amplamente usada, criada por James Gosling e sua equipe na Sun Microsystems. Ele é conhecido por sua portabilidade, segurança e uso em uma variedade de domínios de aplicativos, com destaque para o desenvolvimento de aplicativos empresariais e sistemas distribuídos.
 
-## HISTORIA DO JAVA:
+## SUA HISTORIA:
 1. **Início da década de 1990**: A equipe da Sun Microsystems, liderada por James Gosling, Patrick Naughton e Mike Sheridan, inicia o projeto Green, com o objetivo de desenvolver uma linguagem de programação para dispositivos eletrônicos de consumo.
 
 2. **1991**: Durante o desenvolvimento do projeto Green, a equipe trabalha em uma linguagem de programação chamada Oak. Mais tarde, por questões legais, o nome é alterado para Java.
@@ -42,23 +42,6 @@
 10. **2018**: A Oracle lança o Java SE 10, marcando a mudança para um modelo de lançamento de versões mais frequentes, com uma nova versão do Java a cada seis meses.
 
 11. **2022**: Java continua sendo uma das linguagens de programação mais populares e amplamente usadas em todo o mundo, em uma variedade de aplicativos, desde desenvolvimento de aplicativos móveis até desenvolvimento de sistemas empresariais.
-
-## REGRAS DO JAVA:
-1. **Importação de Pacotes**: Ao desenvolver em Java, é necessário importar o pacote do diretório onde o arquivo está localizado, garantindo o acesso às classes e recursos necessários para o projeto.
-
-2. **Convenções de Nomenclatura**: Para nomear arquivos, funções, variáveis, classes e métodos em Java, é essencial seguir a convenção conhecida como "Camel Case". Por exemplo, um nome de arquivo deve ser formatado como "NomeDoArquivo.java".
-
-3. **Nomenclatura de Classes Públicas**: Uma classe pública em Java deve ter o mesmo nome do arquivo em que está definida, facilitando a identificação e utilização do código por outros desenvolvedores.
-
-4. **Estrutura de Classes**: Mesmo para tarefas simples, como imprimir "olá mundo" no console, é necessário criar uma classe em conformidade com os princípios da Programação Orientada a Objetos (POO).
-
-5. **Declaração de Variáveis**: Ao declarar variáveis, é obrigatório especificar o tipo de dado que elas armazenarão, como "int", "float" ou "String" (sendo esta última um objeto).
-
-6. **Conversão de Entrada de Dados**: Quando se espera uma entrada numérica do usuário, é necessário realizar a conversão dos dados do tipo String para o tipo numérico apropriado, utilizando métodos como "Integer.parseInt".
-
-7. **Finalização de Comandos**: Em Java, é imprescindível terminar cada instrução com o caractere ";" para indicar o fim do comando.
-
-8. **Geração de Bytecode pela IDE**: As IDEs (Ambientes de Desenvolvimento Integrado) em Java são responsáveis por gerar o bytecode do código fonte, o qual pode ser executado em múltiplas Máquinas Virtuais Java (JVMs), garantindo a portabilidade do código em sistemas como Android, Linux e Windows.
 
 ## CARACTERISTICAS:
 ### POSITIVAS:

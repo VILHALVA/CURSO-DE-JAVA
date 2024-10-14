@@ -1,4 +1,23 @@
 # APÊNDICE
+## REGRAS DO JAVA:
+1. **Importação de Pacotes**: Ao desenvolver em Java, é necessário importar o pacote do diretório onde o arquivo está localizado, garantindo o acesso às classes e recursos necessários para o projeto.
+
+2. **Convenções de Nomenclatura**: Para nomear arquivos, funções, variáveis, classes e métodos em Java, é essencial seguir a convenção conhecida como "Camel Case". Por exemplo, um nome de arquivo deve ser formatado como "NomeDoArquivo.java".
+
+3. **Nomenclatura de Classes Públicas**: Uma classe pública em Java deve ter o mesmo nome do arquivo em que está definida, facilitando a identificação e utilização do código por outros desenvolvedores.
+
+4. **Estrutura de Classes**: Mesmo para tarefas simples, como imprimir "olá mundo" no console, é necessário criar uma classe em conformidade com os princípios da Programação Orientada a Objetos (POO).
+
+5. **Declaração de Variáveis**: Ao declarar variáveis, é obrigatório especificar o tipo de dado que elas armazenarão, como "int", "float" ou "String" (sendo esta última um objeto).
+
+6. **Conversão de Entrada de Dados**: Quando se espera uma entrada numérica do usuário, é necessário realizar a conversão dos dados do tipo String para o tipo numérico apropriado, utilizando métodos como "Integer.parseInt".
+
+7. **Finalização de Comandos**: Em Java, é imprescindível terminar cada instrução com o caractere ";" para indicar o fim do comando.
+
+8. **Geração de Bytecode pela IDE**: As IDEs (Ambientes de Desenvolvimento Integrado) em Java são responsáveis por gerar o bytecode do código fonte, o qual pode ser executado em múltiplas Máquinas Virtuais Java (JVMs), garantindo a portabilidade do código em sistemas como Android, Linux e Windows.
+
+---
+
 ## SOBRE O PACKAGE:
 Um **`package`** em Java é um mecanismo de organização e agrupamento de classes relacionadas. Ele ajuda a organizar o código, evitando conflitos de nomes de classes, e facilita a reutilização e manutenção de código, especialmente em projetos maiores.
 
